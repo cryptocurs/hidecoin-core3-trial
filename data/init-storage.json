@@ -9,6 +9,11 @@
       "port":7438,
       "isIpv6":false,
       "prime":true
+    },
+    "45.77.88.54": {
+      "port":7438,
+      "isIpv6":false,
+      "prime":true
     }
   }
 }
